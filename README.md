@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d5b5b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d7b7b&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1d7b7b&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem-Vindos+ao+meu+GitHub!;+sou+Lucas+Silva+;Tenho+22+Anos+;Moro+em+São+Paulo,+Brasil;Atualmente+cursando+Análise+e+Desenvolvimento+de+Sistemas+;Satisfação+em+tê-lo(a)+aqui!+:%29)](https://git.io/typing-svg)
 
@@ -31,4 +31,4 @@
 <div/>
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d5b5b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d7b7b&height=120&section=footer"/>
